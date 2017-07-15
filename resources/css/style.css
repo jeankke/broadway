@@ -3,6 +3,10 @@
   text-align: center;
 }
 .header-list {
-  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg');
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   color: white;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
 }
